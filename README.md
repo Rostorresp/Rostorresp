@@ -1,16 +1,44 @@
-### Hi there 👋
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-<!--
-**Rostorresp/Rostorresp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola! 👋🏼 soy Ros. 
 
-Here are some ideas to get you started:
+###  Front End Developer Freelance. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💪🏼 Actualmente estudiando de forma autodidacta para reforzar mis conocimientos
+
+🕵 uso de lenguajes y herramientas : 
+* HTML
+* CSS
+* JavaScript
+* SASS
+* Gulp
+* Git
+* React
+* Bootstrap 
+* Figma
+
+ 
+✨ Me gusta mucho el diseño en general.
+
+👩🏻 Entre mis hobbies se encuentran: escuchar musica, tocar el piano, cocinar y jugar videojuegos.
+
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
+
+
+![Ros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rostorresp&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rostorresp&layout=compact&theme=buefy)](https://github.com/Rostorresp/github-readme-stats)
+
+
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
+
+## 🖤 Get in touch: 
+* ✨ linkedin: https://www.linkedin.com/in/rosmerytorres/
+
+
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
