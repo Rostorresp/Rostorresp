@@ -2,7 +2,7 @@
 
 # Hola! 👋🏼 soy Ros. 
 
-###  Front End Developer Freelance. 
+###  Front End Developer 
 
 🕵 uso de lenguajes y herramientas : 
 * HTML
